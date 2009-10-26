@@ -6,3 +6,5 @@ bin/*
 CmakeFiles/*
 #Ignoring CmakeCache file
 CmakeCache.tct
+#Ignoring cmake_install.cmake file
+cmake_install.cmake
