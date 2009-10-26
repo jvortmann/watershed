@@ -8,3 +8,5 @@ CmakeFiles/*
 CmakeCache.tct
 #Ignoring cmake_install.cmake file
 cmake_install.cmake
+#Ignoring generated MakeFile
+Makefile
