@@ -3,3 +3,6 @@
 
 #Ignore the compiled files
 bin/*
+
+#Ignore the CmakeFiles folder
+CmakeFiles/*
