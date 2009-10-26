@@ -1,2 +1,5 @@
 # Ignore any file named .DS_Store
 .DS_Store
+
+#Ignore the compiled files
+bin/*
