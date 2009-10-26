@@ -1,8 +1,8 @@
 # Ignore any file named .DS_Store
 .DS_Store
-
 #Ignore the compiled files
 bin/*
-
 #Ignore the CmakeFiles folder
 CmakeFiles/*
+#Ignoring CmakeCache file
+CmakeCache.tct
